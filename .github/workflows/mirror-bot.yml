@@ -9,8 +9,8 @@ defaults:
 
 env:
   # Change these values if you have forked it for your own works
-  GitHubMail: "example@gmail.com"
-  GitHubName: "TheFlashSpeedster" 
+  GitHubMail: "hutao@mail.com"
+  GitHubName: "zyradaex" 
   Branch: "master"
 
 jobs:
